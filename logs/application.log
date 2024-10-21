@@ -1,0 +1,48 @@
+2024-10-20T22:13:52.286+07:00  INFO 160 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : Starting ByteQuantaApplication using Java 21.0.5 with PID 160 (/Users/hungvu/Documents/coding/bytequanta/bytequanta/target/classes started by hungvu in /Users/hungvu/Documents/coding/bytequanta/bytequanta)
+2024-10-20T22:13:52.291+07:00 DEBUG 160 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-10-20T22:13:52.291+07:00  INFO 160 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-10-20T22:13:52.580+07:00  WARN 160 --- [bytequanta] [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [annotationActionEndpointMapping] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-10-20T22:13:52.596+07:00  INFO 160 --- [bytequanta] [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2024-10-20T22:13:52.666+07:00  INFO 160 --- [bytequanta] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-10-20T22:13:52.671+07:00  INFO 160 --- [bytequanta] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-20T22:13:52.671+07:00  INFO 160 --- [bytequanta] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-20T22:13:52.685+07:00  INFO 160 --- [bytequanta] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-20T22:13:52.685+07:00  INFO 160 --- [bytequanta] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 379 ms
+2024-10-20T22:13:52.882+07:00  INFO 160 --- [bytequanta] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoints beneath base path '/actuator'
+2024-10-20T22:13:52.904+07:00  INFO 160 --- [bytequanta] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-10-20T22:13:52.910+07:00  INFO 160 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : Started ByteQuantaApplication in 0.77 seconds (process running for 1.011)
+2024-10-20T22:13:53.094+07:00  INFO 160 --- [bytequanta] [RMI TCP Connection(3)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-20T22:13:53.094+07:00  INFO 160 --- [bytequanta] [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-10-20T22:13:53.095+07:00  INFO 160 --- [bytequanta] [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-10-20T22:15:05.440+07:00  INFO 441 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : Starting ByteQuantaApplication using Java 21.0.5 with PID 441 (/Users/hungvu/Documents/coding/bytequanta/bytequanta/target/classes started by hungvu in /Users/hungvu/Documents/coding/bytequanta/bytequanta)
+2024-10-20T22:15:05.441+07:00 DEBUG 441 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-10-20T22:15:05.441+07:00  INFO 441 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-10-20T22:15:05.702+07:00  WARN 441 --- [bytequanta] [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [annotationActionEndpointMapping] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-10-20T22:15:05.714+07:00  INFO 441 --- [bytequanta] [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2024-10-20T22:15:05.782+07:00  INFO 441 --- [bytequanta] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-10-20T22:15:05.786+07:00  INFO 441 --- [bytequanta] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-20T22:15:05.786+07:00  INFO 441 --- [bytequanta] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-20T22:15:05.800+07:00  INFO 441 --- [bytequanta] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-20T22:15:05.800+07:00  INFO 441 --- [bytequanta] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 347 ms
+2024-10-20T22:15:05.980+07:00  INFO 441 --- [bytequanta] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoints beneath base path '/actuator'
+2024-10-20T22:15:06.001+07:00  INFO 441 --- [bytequanta] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-10-20T22:15:06.008+07:00  INFO 441 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : Started ByteQuantaApplication in 0.696 seconds (process running for 0.899)
+2024-10-20T22:15:06.310+07:00  INFO 441 --- [bytequanta] [RMI TCP Connection(1)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-20T22:15:06.310+07:00  INFO 441 --- [bytequanta] [RMI TCP Connection(1)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-10-20T22:15:06.311+07:00  INFO 441 --- [bytequanta] [RMI TCP Connection(1)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-10-20T22:18:23.460+07:00  INFO 1185 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : Starting ByteQuantaApplication using Java 21.0.5 with PID 1185 (/Users/hungvu/Documents/coding/bytequanta/bytequanta/target/classes started by hungvu in /Users/hungvu/Documents/coding/bytequanta/bytequanta)
+2024-10-20T22:18:23.460+07:00 DEBUG 1185 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-10-20T22:18:23.461+07:00  INFO 1185 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-10-20T22:18:23.727+07:00  WARN 1185 --- [bytequanta] [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [annotationActionEndpointMapping] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-10-20T22:18:23.740+07:00  INFO 1185 --- [bytequanta] [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2024-10-20T22:18:23.812+07:00  INFO 1185 --- [bytequanta] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-10-20T22:18:23.816+07:00  INFO 1185 --- [bytequanta] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-20T22:18:23.817+07:00  INFO 1185 --- [bytequanta] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-20T22:18:23.830+07:00  INFO 1185 --- [bytequanta] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-20T22:18:23.830+07:00  INFO 1185 --- [bytequanta] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 357 ms
+2024-10-20T22:18:24.015+07:00  INFO 1185 --- [bytequanta] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoints beneath base path '/actuator'
+2024-10-20T22:18:24.035+07:00  INFO 1185 --- [bytequanta] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-10-20T22:18:24.041+07:00  INFO 1185 --- [bytequanta] [main] o.e.bytequanta.ByteQuantaApplication     : Started ByteQuantaApplication in 0.709 seconds (process running for 0.927)
+2024-10-20T22:18:24.329+07:00  INFO 1185 --- [bytequanta] [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-20T22:18:24.329+07:00  INFO 1185 --- [bytequanta] [RMI TCP Connection(2)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-10-20T22:18:24.329+07:00  INFO 1185 --- [bytequanta] [RMI TCP Connection(2)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
